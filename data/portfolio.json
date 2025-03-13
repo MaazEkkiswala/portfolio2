@@ -1,0 +1,103 @@
+{
+    "name": "Maaz Ekkiswala",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Maaz Ekkiswala - a passionate",
+    "headerTaglineThree": "Full Stack Developer",
+    "headerTaglineFour": "building scalable web applications.",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/MaazEkkiswala"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/maaz-ekkiswala-a0051a202/"
+      },
+      {
+        "id": "4",
+        "title": "Email",
+        "link": "mailto:maazekkiswala8758@gmail.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Red Strength",
+        "description": "RECOVER - ENHANCE - DEVELOP.  RED Strength was made from the ground up by owner Alex, focusing on creating a gym that everyone wants to be in - from hardcore lifters, to parents young and old. RED Strength is made with community, accessibility, and quality at the forefront of the gym design.",
+        "imageSrc": "images/red-strength.jpg",
+        "url": "https://admin.redstrengthca.com/auth/sign-in"
+      },
+      {
+        "id": "2",
+        "title": "Find Tables",
+        "description": "Find Tables is a platform for finding tables for events and parties. It is a platform with multi language functionality and SAAS based product for managing Restaurants. ",
+        "imageSrc": "images/find-tables1.jpg",
+        "url": "https://admin.findtable.com/auth/sign-in"
+      },
+      {
+        "id": "3",
+        "title": "Axis Card",
+        "description": "The Digital cards for storing and managing data of users and also Payments",
+        "imageSrc": "images/axis-cards.jpg",
+        "url": "https://axiscards.com/"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Full Stack Development",
+        "description": "Developing high-performance web applications using Django, React, and Next.js."
+      },
+      {
+        "id": "2",
+        "title": "API Development",
+        "description": "Building RESTful and GraphQL APIs using Django REST Framework and FastAPI."
+      },
+      {
+        "id": "3",
+        "title": "Cloud & Deployment",
+        "description": "Deploying applications with Docker, AWS, and CI/CD pipelines."
+      },
+      {
+        "id": "4",
+        "title": "Data Science (Learning)",
+        "description": "Exploring Data Science and Machine Learning with Python."
+      }
+    ],
+    "aboutpara": "I’m a Full Stack Developer with 4+ years of experience in designing, developing, and optimizing web applications using Python (Django, Flask, FastAPI) and modern JavaScript frameworks like React & Next.js. Passionate about building scalable, high-performance solutions that enhance user experience and efficiency.",
+    "resume": {
+      "tagline": "🚀 Full Stack Developer | Python & JavaScript",
+      "description": "I have experience in building scalable applications using Django, FastAPI, React, and Next.js.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "2021 - Present",
+          "type": "Full Time",
+          "position": "Full Stack Developer",
+          "bullets": "Developed scalable applications, Built REST & GraphQL APIs, Improved performance & security."
+        },
+        {
+          "id": "2",
+          "dates": "2019 - 2021",
+          "type": "Full Time",
+          "position": "Software Engineer",
+          "bullets": "Worked on backend systems using Django, Integrated third-party APIs, Developed user-friendly UIs."
+        }
+      ],
+      "education": {
+        "universityName": "Your University Name",
+        "universityDate": "2016-2020",
+        "universityPara": "Graduated with a degree in Computer Science, specializing in Web Development and Backend Technologies."
+      },
+      "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+      "frameworks": ["Django", "Flask", "FastAPI", "React", "Next.js"],
+      "others": ["Docker", "AWS", "PostgreSQL", "MongoDB", "Git"]
+    }
+  }
+  
